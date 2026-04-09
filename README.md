@@ -105,6 +105,3 @@ Dashboard menampilkan:
 2. Jalankan proses training ulang jika data berubah.
 3. Jika model belum ada, dashboard tidak dapat melakukan prediksi.
 
-## Author
-
-Hafidz
